@@ -6,7 +6,7 @@ The site includes pages for Home, Menu, About, and Contact, and is responsive ac
 ---
 
 ## 🌐 Live Demo
-👉 [TasteBuds Restaurant on GitHub Pages](https://omwengaswift.github.io/restaurant-site/)
+👉 [TasteBuds Restaurant on GitHub Pages](https://omwengaswift.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-week8/)
 
 ---
 
