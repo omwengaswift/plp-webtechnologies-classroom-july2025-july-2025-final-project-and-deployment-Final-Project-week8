@@ -11,6 +11,7 @@ The site includes pages for Home, Menu, About, and Contact, and is responsive ac
 ---
 
 ## 📂 Project Structure
+```
 restaurant-site/
     ├── css/
     │ └── styles.css
@@ -23,7 +24,7 @@ restaurant-site/
     ├── about.html # About Page
     ├── contact.html # Contact Page
     └── README.md
-
+```
 ---
 
 ## 🚀 Features
